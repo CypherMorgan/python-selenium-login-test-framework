@@ -1,5 +1,9 @@
 # Python Selenium Login Test Framework
 
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Selenium](https://img.shields.io/badge/selenium-automation-green)
+![PyTest](https://img.shields.io/badge/pytest-testing-orange)
+
 A small UI automation framework built with **Python, Selenium WebDriver and PyTest** to validate the login functionality of the test site:
 
 https://the-internet.herokuapp.com/login
